@@ -1,3 +1,5 @@
 # MyFirstRepository
 This repository is being created for an assignment of Outscal Full stack game development course
 This second line is being added as the part of the second assignment, which is to show the read me file is being modified from the website directly.
+
+This third line is being add from my local pc. I did it by cloning the repo to my local pc, then I made some changes to the read me file and I am first adding it using command:   "git add README.md". by doing this the file will be added to a staging area, which is a temporary storing place for files, then the file is prepared for the next commit. The commit is done by using command:  'git commit -m"commit message"'. This will basically takes a snap shot of all the changes. Then using push command:  "git push origin main" I pushed the taken snapshots to the remote github. Here the origin is the name of the remote name and main is the default name of the master branch.
